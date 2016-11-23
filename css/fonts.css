@@ -1,0 +1,26 @@
+/* 
+WebFont Setup CSS
+
+Included:
+Migmix 1p regular
+IPA P Gothic
+IPA P Mincho
+*/
+
+/* M+ 1c regular */
+@font-face {
+	font-family: 'Migmix';
+	src: url('../fonts/migmix-1p-regular.ttf');
+}
+
+/* IPA P Gothic */
+@font-face {
+	font-family: 'ipag';
+	src: url('../fonts/ipagp.ttf');
+}
+
+/* IPA P Mincho */
+@font-face {
+	font-family: 'ipam';
+	src: url('../fonts/ipamp.ttf');
+}
