@@ -5,6 +5,19 @@
 	font-family:"Meiryo";
 }
 
+h2,h3{
+	margin:8px 0;
+	padding:0 6px;
+	border-left:solid 5px navy;
+	border-bottom:solid 2px navy;
+}
+
+hr{
+	border:none;
+	background-color:gray;
+	height:1px;
+}
+
 a{
     color:gray;
     text-decoration:none;
@@ -14,13 +27,8 @@ a:hover{
 	color:rgb(80,80,80);
 }
 
-#Header{
+#Header img{
 	width:100%;
-	padding:15px;
-	text-align:center;
-	background-color:rgb(46,65,114);
-	color:white;
-	font-size:38px;
 }
 
 #HeaderDesc{
