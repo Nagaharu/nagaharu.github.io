@@ -9,8 +9,8 @@ body{
 h2,h3{
 	margin:8px 0;
 	padding:0 6px;
-	border-left:solid 5px navy;
-	border-bottom:solid 2px navy;
+	border-left:solid 5px #3F51B5;
+	border-bottom:solid 2px #3F51B5;
 }
 
 hr{
@@ -20,12 +20,12 @@ hr{
 }
 
 a{
-    color:gray;
+    color:#3F51B5;
     text-decoration:none;
 }
 
 a:hover{
-	color:rgb(80,80,80);
+	opacity:0.7;
 }
 
 #Header img{
@@ -45,6 +45,5 @@ a:hover{
 }
 
 #Navi img{
-	width:14%;
-	padding:20px 0;
+	padding:10px 0;
 }
